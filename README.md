@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mumogg
 - 👀 I’m interested in cybersecurity and coding
-- 🌱 I’m currently learning pyphon, java, Ethical hacking and machine learning
+- 🌱 I’m currently learning pyphon, java and machine learning
